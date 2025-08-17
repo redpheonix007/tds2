@@ -1,0 +1,6 @@
+2025-08-17 20:09:48,444 - main - ERROR - Could not import or initialize workflows: No module named 'langchain_openai'
+2025-08-17 20:09:48,445 - main - INFO - Created minimal orchestrator with local multi_step_web_scraping workflow
+2025-08-17 20:15:02,491 - app - ERROR - Could not import or initialize workflows: No module named 'langchain_openai'
+2025-08-17 20:15:02,491 - app - INFO - Created minimal orchestrator with local multi_step_web_scraping workflow
+2025-08-17 23:31:09,365 - app - ERROR - Could not import or initialize workflows: No module named 'langchain_openai'
+2025-08-17 23:31:09,365 - app - INFO - Created minimal orchestrator with local multi_step_web_scraping workflow

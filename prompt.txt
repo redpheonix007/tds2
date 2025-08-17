@@ -1,0 +1,15 @@
+
+
+
+== Improtant Instructions ==
+
+* While running in Agent mode Pls do not run the commands on this machine directly the actual python code and API server runs inside a Docker container,  application is installed inside docker all the tests should either run using curl command on from inside the docker container 
+
+* No need to create test scripts unless its specifically mentioned in the context
+* No need to create Instruction md files unless its specifically mentioned in the context
+* These are not the final questions I be evaluated on. These examples are indicative.
+  so data scraping needs to be generic and prompts as well. Make data scraping generic and prompts generic. The scraping logic and prompts
+  should work for any table, not just any one use case.
+* code linter used : flake8 we need to enable venv before running flake8
+* when you start a new terminal enable venv  
+* to run the linter we can also use fix_lint.sh (after modifying appropriately)
